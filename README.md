@@ -1,2 +1,2 @@
-# DataTwitter-Eleicao
+# DataTwitter-Eleição
 Análise de Sentimentos Presidenciáveis
